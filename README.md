@@ -1,12 +1,186 @@
-- 👋 Hi, I’m @Nirupama-07
-- 👀 I’m interested in making website
-- 🌱 I’m currently learning web development and basics of python
-- 💞️ I’m looking to collaborate on some web develolpment projects
-- 📫 If interested you can reach me by email(nirupamamajhi549@gmail.com)
-- 😄 Pronouns: she/her...
-- ⚡ Fun fact: ...
+# Hi 👋, I'm Nirupama Majhi
 
-<!---
-Nirupama-07/Nirupama-07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="center">Aspiring Full Stack Web Developer | Django • React • JavaScript</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=750&lines=Aspiring+Full+Stack+Web+Developer;Django+%7C+React+%7C+JavaScript;Building+Projects+and+Learning+Every+Day;Always+Curious+to+Learn+Something+New!" alt="Typing Animation"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nirupama-07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+---
+
+# 👩‍💻 About Me
+
+* 🎓 B.Tech CSE Student
+* 🌱 Currently learning **Advanced JavaScript, React and Django**
+* 💻 Passionate about **Full Stack Web Development**
+* 🚀 Love building real-world web applications
+* 📚 Preparing for Software Developer opportunities
+* 🌊 I enjoy travelling to beaches, mountains and temples
+* 🎯 Goal: To become a skilled Full Stack Developer and continuously improve my problem-solving abilities.
+
+---
+
+# 🚀 Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,c,mysql" />
+</p>
+
+### ⚙️ Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,django,bootstrap,tailwind,nodejs,express" />
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,netlify,figma" />
+</p>
+
+---
+
+# 📚 Currently Learning
+
+* ⚛️ React
+* 🐍 Django
+* 📜 Advanced JavaScript
+* 🌐 REST APIs
+* 💾 Backend Development
+* 🔐 Authentication & Authorization
+
+---
+
+# 📂 Projects
+
+## 🏥 CityCare Hospital Management System *(In Progress)*
+
+A full-stack Hospital Management System built with **Django, Bootstrap, HTML, CSS and JavaScript**.
+
+### Planned Features
+
+* 🔐 User Authentication
+* 📅 Appointment Booking
+* 👨‍⚕️ Doctor & Department Management
+* 🎫 Queue Management
+* 🚑 Emergency Services
+* 👤 Patient Dashboard
+* ⚙️ Admin Dashboard
+* 📱 Responsive Design
+
+---
+
+## ✈️ Travel Point *(In Progress)*
+
+A modern travel website developed using **React**.
+
+### Planned Features
+
+* 🏝️ Hero Section
+* 🌍 Popular Destinations
+* 💼 Tour Packages
+* ⭐ Customer Reviews
+* 📱 Responsive Layout
+* ⚛️ React Components
+* 🔄 State Management
+
+---
+
+## 🍽️ NOVA Food Ordering Website *(In Progress)*
+
+A restaurant ordering application developed using **Django**.
+
+### Planned Features
+
+* 🍕 Dynamic Food Menu
+* 🛒 Shopping Cart
+* 📂 Food Categories
+* 👤 User Authentication
+* 💳 Order Management
+* 📱 Responsive Design
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nirupama-07&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=nirupama-07&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirupama-07&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=nirupama-07&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nirupama-07&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p>
+
+<a href="https://github.com/nirupama-07">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:YOUR-EMAIL@example.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+---
+
+# 💡 Current Focus
+
+* 🏥 Developing the **CityCare Hospital Management System**
+* ⚛️ Building **Travel Point** using React
+* 🍽️ Converting **NOVA Food Ordering Website** into a Django application
+* 📚 Strengthening JavaScript concepts
+* 🧠 Preparing for Full Stack Developer interviews
+
+---
+
+# 💬 Favourite Quote
+
+> *"Success doesn't come from what you do occasionally. It comes from what you do consistently."*
+
+---
+
+<p align="center">
+
+### ⭐ If you like my work, consider giving a star to my repositories!
+
+Thanks for visiting my profile ❤️
+
+</p>
