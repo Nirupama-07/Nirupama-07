@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=750&lines=Aspiring+Full+Stack+Web+Developer;Django+%7C+React+%7C+JavaScript;Building+Projects+and+Learning+Every+Day;Always+Curious+to+Learn+Something+New!" alt="Typing Animation"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nirupama-07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
-
 ---
 
 # 👩‍💻 About Me
@@ -149,11 +145,11 @@ A restaurant ordering application developed using **Django**.
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<a href="https://www.linkedin.com/in/nirupama-majhi-35b49a2a7">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:YOUR-EMAIL@example.com">
+<a href="mailto:nirupamamajhi549@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
