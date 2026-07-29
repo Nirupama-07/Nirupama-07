@@ -72,7 +72,7 @@ A full-stack Hospital Management System built with **Django, Bootstrap, HTML, CS
 
 ### Github Repository:- 
 <p>
-  <a href="https://github.com/nirupama-07">Hospital Query Management System </a>
+  <a href="https://github.com/Nirupama-07/Hospital-Queue-Management">Hospital Query Management System </a>
 </p>
 
 ---
