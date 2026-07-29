@@ -55,7 +55,7 @@
 
 # 📂 Projects
 
-## 🏥 CityCare Hospital Management System *(In Progress)*
+## 🏥 CityCare Hospital Management System *(Completed)*
 
 A full-stack Hospital Management System built with **Django, Bootstrap, HTML, CSS and JavaScript**.
 
@@ -69,6 +69,11 @@ A full-stack Hospital Management System built with **Django, Bootstrap, HTML, CS
 * 👤 Patient Dashboard
 * ⚙️ Admin Dashboard
 * 📱 Responsive Design
+
+### Github Repository:- 
+<p>
+  <a href="https://github.com/nirupama-07">Hospital Query Management System </a>
+</p>
 
 ---
 
