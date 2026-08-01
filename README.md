@@ -77,7 +77,7 @@ A full-stack Hospital Management System built with **Django, Bootstrap, HTML, CS
 
 ---
 
-## ✈️ Travel Point *(In Progress)*
+## ✈️ Travel Plan *(Completed)*
 
 A modern travel website developed using **React**.
 
@@ -86,11 +86,21 @@ A modern travel website developed using **React**.
 * 🏝️ Hero Section
 * 🌍 Popular Destinations
 * 💼 Tour Packages
-* ⭐ Customer Reviews
-* 📱 Responsive Layout
+* ⭐ Rating
+* 📱 Bookings
 * ⚛️ React Components
 * 🔄 State Management
 
+
+### Github Repository:- 
+<p>
+  <a href="https://github.com/Nirupama-07/Travel-Plan">Travel Plan</a>
+</p>
+
+###Live Link:-
+<p>
+  <a href="https://travel-plan-website.netlify.app/">Travel Plan</a>
+</p>
 ---
 
 ## 🍽️ NOVA Food Ordering Website *(In Progress)*
